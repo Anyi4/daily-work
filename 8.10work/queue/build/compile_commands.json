@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/64873/Desktop/code/c/build",
+  "command": "D:\\x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/QUEUE.dir/includes_C.rsp -g -o CMakeFiles\\QUEUE.dir\\src\\main.c.obj -c C:\\Users\\64873\\Desktop\\code\\c\\8.10work\\queue\\src\\main.c",
+  "file": "C:/Users/64873/Desktop/code/c/8.10work/queue/src/main.c",
+  "output": "CMakeFiles/QUEUE.dir/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/64873/Desktop/code/c/build",
+  "command": "D:\\x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/QUEUE.dir/includes_C.rsp -g -o CMakeFiles\\QUEUE.dir\\src\\queue.c.obj -c C:\\Users\\64873\\Desktop\\code\\c\\8.10work\\queue\\src\\queue.c",
+  "file": "C:/Users/64873/Desktop/code/c/8.10work/queue/src/queue.c",
+  "output": "CMakeFiles/QUEUE.dir/src/queue.c.obj"
+}
+]
